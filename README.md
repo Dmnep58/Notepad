@@ -1,28 +1,36 @@
 # Notepad
 This is a simple text editor application developed in java or Notepad Application.
-It is created in java for front-end interface. It is used to simply write anything for our day to day use. Its main objective is to reduce the manual work and mistakes that occur in it. This application completely provides a user-friendly interface. 
+It is created in java for front-end interface. It is used to simply write anything for our day to day use. Its main objective is to reduce the manual work and mistakes that occur in it. This application completely provides a user-friendly interface.
 
+Technology used:
+1. Eclipse IDE
+2. java concepts
+    a. swing
+    b. AWT (Abstract Windowing Toolkit)
+    c. File Handeling
+    
+    
+    The main features are:
 
-
-	Menu - this feature contains all the functionality of notepad in menu-items.
+--> Menu - this feature contains all the functionality of notepad in menu-items.
 	
-	1. File - this features contains  functionalities like
+  1. File - this features contains  functionalities like
 			i. New File
 			ii. Open File
 			iii. Save File
 			iv. Save as File
 			v. Exit Note-pad
 			
-	2. Edit - this feature is used to undo and redo the texts.
+2. Edit - this feature is used to undo and redo the texts.
 			i. Undo
 			ii. Redo
 			
-	3. Format - This feature contains functions like
+3. Format - This feature contains functions like
 			i. Word wrap
 			ii. Font family
 			iii. Font size
 		
-	4. Color - this feature helps to change the color of the background and text.
+4. Color - this feature helps to change the color of the background and text.
 			i. Green
 			ii. Black
 			iii. Blue
